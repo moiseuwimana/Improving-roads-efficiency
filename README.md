@@ -1,5 +1,4 @@
 # Improving-roads-efficiency
-###### By
-Moise Uwimana
-Gabriel Ntwari
+###### Partnered with
+Gabriel Ntwari, and 
 Kevin Shyaka
